@@ -2,8 +2,13 @@
 
 ## About ##
 
-A NPL/Lua client library based on [redis-lua](https://github.com/nrk/redis-lua) and NPL builtin sockets library.
+A NPL/Lua client library for the Redis advanced key-value database,
+which is based on [redis-lua](https://github.com/nrk/redis-lua) and NPL builtin sockets library.
 
+## Install ##
+```
+nplc install William0911/redis-npl
+```
 
 ## Main features ##
 
@@ -20,6 +25,5 @@ A NPL/Lua client library based on [redis-lua](https://github.com/nrk/redis-lua) 
 - [NPLPackages](https://github.com/NPLPackages/main)
 
 
-## License ##
-
-The code for redis-lua is distributed under the terms of the MIT/X11 license (see LICENSE).
+## Usages ##
+Just see ./example or [redis-lua](https://github.com/nrk/redis-lua)
