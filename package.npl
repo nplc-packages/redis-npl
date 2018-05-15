@@ -1,0 +1,13 @@
+{
+      ["keywords"] = {
+        [1] = "--name",
+        [2] = "unknow",
+      },
+      ["version"] = "1.0.0",
+      ["rendme"] = "README.md",
+      ["dependencies"] = {
+      },
+      ["author"] = "unknow",
+      ["name"] = "redis-npl",
+      ["description"] = "A redis client based on redis-lua, whoes dependency on luasocket has been replaced with NPL builtin socket",
+    }
