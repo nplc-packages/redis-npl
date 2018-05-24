@@ -7,7 +7,7 @@ which is based on [redis-lua](https://github.com/nrk/redis-lua) and NPL builtin 
 
 ## Install ##
 ```
-nplc install William0911/redis-npl
+nplc install nplc-packages/redis-npl
 ```
 
 ## Main features ##
